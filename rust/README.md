@@ -26,3 +26,9 @@ $ cargo r --quiet
 $ cargo clean
 $ cargo check
 ```
+
+
+Error Code Index:
+```
+rustc --explain E0384
+```
